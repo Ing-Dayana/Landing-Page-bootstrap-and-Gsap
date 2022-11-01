@@ -1,7 +1,8 @@
 # Landing Page with bootstrap and Gsap. (Responsive)
 
-Creation of a Landing Page with HTML, CSS, JavaScript and bootstrap. 
-Adding animations with the Gsap library.
+-Creation of a Landing Page with HTML, CSS, JavaScript and bootstrap. 
+Adding animations with the Gsap library.-
+
 
 
 BOOTSTRAP COMPONENTS:
