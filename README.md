@@ -4,8 +4,9 @@ Adding animations with the Gsap library.
 
 
 
-Uploading 2022-10-28 20-33-15.mp4…
 
+
+https://user-images.githubusercontent.com/110215625/199136752-f4647f43-0961-46ce-a8c6-3592e48e7d75.mp4
 
 ![image](https://user-images.githubusercontent.com/110215625/199134510-26b4188e-9c5e-4945-bd7f-23487939915a.png)
 
