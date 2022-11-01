@@ -3,6 +3,10 @@ Creation of a Landing Page with HTML, JavaScript and bootstrap.
 Adding animations with the Gsap library.
 
 
+
+Uploading 2022-10-28 20-33-15.mp4…
+
+
 ![image](https://user-images.githubusercontent.com/110215625/199134510-26b4188e-9c5e-4945-bd7f-23487939915a.png)
 
 ![image](https://user-images.githubusercontent.com/110215625/199134617-d1790290-75be-4f29-96b7-e28666babe90.png)
